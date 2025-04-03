@@ -28,3 +28,11 @@
 
 中国出身、現在は東京在住の大学院生。「本当に人の役に立つ技術」を追求しています。
 
+##📕 資格
+- 日本語能力試験N1
+- TOEIC Listening&Reading Test 850
+- Advanced Google Analytics Certificate of Completion
+- IT パスポート試験
+- 普通自動車第一種運転免許
+
+
